@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=jeganathpv&color=green&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=jeganathpv&color=blue&label=PROFILE+VIEWS)
 
 
 <br />
