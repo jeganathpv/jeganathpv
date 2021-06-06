@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![](https://komarev.com/ghpvc/?username=jeganathpv&color=blue&label=PROFILE+VIEWS)
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 <br />
@@ -11,6 +9,8 @@
   <img align="left" alt="Jeganathan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+![](https://komarev.com/ghpvc/?username=jeganathpv&color=blue&label=PROFILE+VIEWS)
+
 <br />
 
 Hi, I'm [Jeganath PV](https://jeganathpv.github.io/), a Full Stack developer and a software engineer from India. I'm a techno explorer across different domains. I take great care in the experience, architecture, and code quality of the things I build.
@@ -18,6 +18,8 @@ Hi, I'm [Jeganath PV](https://jeganathpv.github.io/), a Full Stack developer and
 I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 - 💬 Ping me about anything, I am happy to help;
+- 🔭 I’m currently working on [Ducen IT](https://www.ducenit.com/)
+- 🌱 I’m currently learning System Designs & Architecture
 
 **Languages and Tools:**  
 <br />
