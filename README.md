@@ -40,7 +40,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 📈 My GitHub Stats
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=jeganathpv&show_icons=true&theme=gotham" alt="jeganathpv" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=jeganathpv&show_icons=true&theme=radical&hide_title=true" alt="jeganathpv" />
   
 <!--
 **jeganathpv/jeganathpv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
