@@ -19,7 +19,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 - 💬 Ping me about anything, I am happy to help;
 - 🔭 I’m currently working on [Ducen IT](https://www.ducenit.com/)
-- 🌱 I’m currently learning System Designs & Architecture
+- 🌱 I’m currently learning AWS Services & practioning for the certification DVA-C01
 
 <a href="https://www.buymeacoffee.com/jeganathpv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 <br/>
@@ -37,6 +37,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 📈 My GitHub Stats
 
