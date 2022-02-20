@@ -13,13 +13,19 @@
 
 <br />
 
-Hi, I'm [Jeganath PV](https://jeganathpv.github.io/), a Full Stack developer and a software engineer from India. I'm a techno explorer across different domains. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Jeganath PV](https://jeganathpv.github.io/), a Full Stack developer from India. I'm a techno explorer across different domains. I take great care in the experience, architecture, and code quality of the things I build.
 
-I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. And I can also be a good collaborator and will share knowledge to others.
 
 - 💬 Ping me about anything, I am happy to help;
 - 🔭 I’m currently working on [Ducen IT](https://www.ducenit.com/)
 - 🌱 I’m currently learning AWS Services & practioning for the certification DVA-C01
+
+# My Open-Source Contributions
+| Name | Type | Description |
+|----|----|----|
+| ngx-json-tree | npm package | Show json object as tree structure |
+| firebase-crud | PyPi package | Perform CRUD with firebase |
 
 <a href="https://www.buymeacoffee.com/jeganathpv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 <br/>
