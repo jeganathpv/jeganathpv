@@ -19,7 +19,9 @@ I am an open-source enthusiast. I learned a lot from the open-source community a
 
 - 💬 Ping me about anything, I am happy to help;
 - 🔭 I’m currently working on [Ducen IT](https://www.ducenit.com/)
+<!--
 - 🌱 I’m currently learning AWS Services & practioning for the certification DVA-C01
+-->
 
 # My Open-Source Contributions
 | Name | Type | Description |
