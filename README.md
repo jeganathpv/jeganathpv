@@ -18,7 +18,7 @@ Hi, I'm [Jeganath PV](https://jeganathpv.github.io/), a Full Stack developer fro
 I am an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. And I can also be a good collaborator and will share knowledge to others.
 
 - 💬 Ping me about anything, I am happy to help;
-- 🔭 I’m currently working on [Ducen IT](https://www.ducenit.com/)
+- 🔭 I’m currently working as Software Developer II at [Techtinium](https://techtinium.com/)
 <!--
 - 🌱 I’m currently learning AWS Services & practioning for the certification DVA-C01
 -->
@@ -46,6 +46,7 @@ I am an open-source enthusiast. I learned a lot from the open-source community a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 
 📈 My GitHub Stats
 
