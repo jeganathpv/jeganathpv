@@ -18,7 +18,7 @@ Hi, I'm [Jeganath PV](https://jeganathpv.github.io/), a Full Stack developer fro
 I am an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. And I can also be a good collaborator and will share knowledge to others.
 
 - 💬 Ping me about anything, I am happy to help;
-- 🔭 I’m currently working as Software Developer II at [Techtinium](https://techtinium.com/)
+- 🔭 I’m currently working as Senior Software Engineer at [Techtinium](https://techtinium.com/)
 <!--
 - 🌱 I’m currently learning AWS Services & practioning for the certification DVA-C01
 -->
