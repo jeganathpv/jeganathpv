@@ -3,10 +3,10 @@
 
 <br />
 <a href="https://twitter.com/jeganath_pv">
-  <img align="left" alt="Jeganath PV | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Jeganath PV | Twitter" width="22px" src="https://logowik.com/content/uploads/images/twitter-x-icon3832.logowik.com.webp" />
 </a>
 <a href="https://www.linkedin.com/in/jeganathan-pv-3a822b147">
-  <img align="left" alt="Jeganathan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Jeganathan's LinkedIN" width="22px" src="https://logowik.com/content/uploads/images/329_linkedin.jpg" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=jeganathpv&color=blue&label=PROFILE+VIEWS)
